@@ -1,6 +1,6 @@
 {
   "name": "listen1",
-  "version": "2.33.0",
+  "version": "2.33.1",
   "description": "One for all free music in China",
   "main": "main.js",
   "scripts": {
@@ -15,7 +15,7 @@
     "Listen 1",
     "music player"
   ],
-  "author": "Listen 1 <githublisten1@gmail.com>",
+  "author": "Listen 1 <githublisten1@gmail.com>, Linux Desktop Version: liurun637@gmail.com",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/listen1/listen1_desktop/issues"

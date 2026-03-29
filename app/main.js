@@ -420,6 +420,7 @@ function createWindow() {
     }
     // 设置缩放级别
     mainWindow.webContents.send("setZoomLevel", windowState.zoomLevel);
+    mainWindow.show();                 // 显示窗口
   });
 
   // 窗口大小改变时的回调
