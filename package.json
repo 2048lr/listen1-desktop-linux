@@ -69,7 +69,14 @@
         "deb",
         "rpm"
       ],
-      "category": "Audio"
+      "category": "Audio",
+      "maintainer": "liurun637@gmail.com"
+    },
+    "rpm": {
+      "afterInstall": "./build/postinst"
+    },
+    "deb": {
+      "afterInstall": "./build/postinst"
     },
     "nsis": {
       "runAfterFinish": false,
