@@ -65,9 +65,8 @@
     },
     "linux": {
       "target": [
-        "tar.gz",
-        "appImage",
-        "deb"
+        "deb",
+        "rpm"
       ],
       "category": "Audio"
     },
